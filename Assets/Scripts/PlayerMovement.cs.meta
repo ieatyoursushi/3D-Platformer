@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d13f326c18347ca409a3d0c15f171d44
+timeCreated: 1624124366
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Camera: {instanceID: 0}
+  - JumpAudio: {instanceID: 0}
+  - JumpAudio2: {instanceID: 0}
+  - JumpAudio3: {instanceID: 0}
+  - Panel: {instanceID: 0}
+  - PlayerPrefab: {fileID: 1072008179886872, guid: 8de5b11063869354498e91952acaa34b,
+      type: 2}
+  - purchase: {fileID: 82703358025569276, guid: a0a661b7f7fd8dd4fa8481a39305e14d,
+      type: 2}
+  - Equip: {fileID: 82835462375560362, guid: 18da67f6144c2fd4cab36e29cff95404, type: 2}
+  - Deny: {fileID: 82948020284183186, guid: b604f77c29dce4d41a3e57ed7555ac0c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
